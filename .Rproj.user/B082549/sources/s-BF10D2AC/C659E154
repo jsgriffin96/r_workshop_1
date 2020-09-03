@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599100632625.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C659E154",
+    "lastKnownWriteTime" : 1583873723,
+    "last_content_update" : 1583873723,
+    "path" : "C:/Users/Jsgri/Desktop/School/Fall 2020/AMIC/R Workshop 1/r_workshop_1/R Webscraping.R",
+    "project_path" : "R Webscraping.R",
+    "properties" : {
+        "cursorPosition" : "3,22",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
