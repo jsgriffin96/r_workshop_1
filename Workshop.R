@@ -31,7 +31,7 @@ temperatures[which.max(temperatures)]
 temperatures.DF<-as.data.frame(temperatures)
 
 #Data Frames
-name<-c('Bim','Jillian','Patrick','Grant')
+name<-c('Jarrod','Jillian','Patrick','Grant')
 age<-c(24,21,24,19)
 iq<-c(480,210,200,5)
 standing<-c('Super Senior','Senior','Super Senior','Sophomore')
