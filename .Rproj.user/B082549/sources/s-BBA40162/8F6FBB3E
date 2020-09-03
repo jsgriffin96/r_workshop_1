@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "160089189",
+    "hash" : "0",
     "id" : "8F6FBB3E",
     "lastKnownWriteTime" : 1599100644,
     "last_content_update" : 1599100644748,
     "path" : "C:/Users/Jsgri/Desktop/School/Fall 2020/AMIC/R Workshop 1/r_workshop_1/Workshop.R",
     "project_path" : "Workshop.R",
     "properties" : {
-        "cursorPosition" : "16,29",
-        "scrollLine" : "0"
+        "cursorPosition" : "86,30",
+        "scrollLine" : "71"
     },
     "read_only" : false,
     "read_only_alternatives" : [
